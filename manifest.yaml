@@ -1,3 +1,0 @@
-kind: ${values.asset_type}
-metadata:
-  project: ${values.project_name}
