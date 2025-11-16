@@ -16,8 +16,8 @@ spec:
       required:
         - name
       properties:
-        name:
-          title: name
+        project_name:
+          title: project_name
           type: string
           description: Unique name of the component
           ui:autofocus: true
