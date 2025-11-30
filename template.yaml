@@ -32,7 +32,7 @@ spec:
             catalogFilter:
               kind: Group
         asset_type:
-          title: Owner
+          title: Asset Type
           type: string
           description: Owner of the component
           default: BatchIngestion
